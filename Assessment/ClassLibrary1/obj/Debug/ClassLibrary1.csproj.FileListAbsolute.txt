@@ -1,0 +1,6 @@
+c:\users\caiom\source\repos\Assessment\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\caiom\source\repos\Assessment\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\caiom\source\repos\Assessment\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+c:\users\caiom\source\repos\Assessment\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\users\caiom\source\repos\Assessment\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\caiom\source\repos\Assessment\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
